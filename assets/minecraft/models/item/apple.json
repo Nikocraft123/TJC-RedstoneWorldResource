@@ -1,0 +1,25 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/apple/1" },
+ 		{ "predicate": { "custom_model_data": 2}, "model": "item/apple/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/apple/3" },
+ 		{ "predicate": { "custom_model_data": 4}, "model": "item/apple/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/apple/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/apple/6" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/apple/7" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/apple/8" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/apple/9" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/apple/10" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/apple/11" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/apple/12" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/apple/13" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/apple/14" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/apple/15" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/apple/16" }
+
+	]
+}

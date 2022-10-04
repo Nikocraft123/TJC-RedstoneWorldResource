@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/bread/1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/bread/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/bread/3" }
+
+	]
+}

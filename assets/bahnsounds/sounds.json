@@ -1,0 +1,19 @@
+{
+  "catgong": {
+    "sounds": [
+      "bahnsounds:catgong1",
+      "bahnsounds:catgong2",
+      "bahnsounds:catgong3",
+      "bahnsounds:catgong4",
+      "bahnsounds:catgong5"
+    ]
+  },
+  "abfahrt": {
+    "sounds": [
+      "bahnsounds:abfahrt1",
+      "bahnsounds:abfahrt2",
+      "bahnsounds:abfahrt3",
+      "bahnsounds:abfahrt4"
+    ]
+  }
+}

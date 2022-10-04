@@ -1,0 +1,444 @@
+{
+  "schlecht": {
+    "sounds": [{
+      "name" : "fp:schlecht",
+      "stream" : true
+    }]
+  },  
+  "rb_zelle": {
+    "sounds": [{
+      "name" : "fp:rb_zelle",
+      "stream" : true
+    }]
+  },  
+  "fp_wasserorgel": {
+    "sounds": [{
+      "name" : "fp:wassershow",
+      "stream" : true
+    }]
+  },
+  "fp_mo_0": {
+    "sounds": [{
+      "name" : "fp:fp_mo_0",
+      "stream" : true
+    }]
+  },
+  "fp_mo_m1": {
+    "sounds": [{
+      "name" : "fp:fp_mo_m1",
+      "stream" : true
+    }]
+  },
+  "fp_mo_1": {
+    "sounds": [{
+      "name" : "fp:fp_mo_1",
+      "stream" : true
+    }]
+  },
+  "fp_mo_2": {
+    "sounds": [{
+      "name" : "fp:fp_mo_2",
+      "stream" : true
+    }]
+  },
+  "fp_mo_3": {
+    "sounds": [{
+      "name" : "fp:fp_mo_3",
+      "stream" : true
+    }]
+  },
+  "fp_mo_4": {
+    "sounds": [{
+      "name" : "fp:fp_mo_4",
+      "stream" : true
+    }]
+  },
+  "fp_mo_5": {
+    "sounds": [{
+      "name" : "fp:fp_mo_5",
+      "stream" : true
+    }]
+  },
+  "fp_mo_6": {
+    "sounds": [{
+      "name" : "fp:fp_mo_6",
+      "stream" : true
+    }]
+  },
+  "fp_mo_7": {
+    "sounds": [{
+      "name" : "fp:fp_mo_7",
+      "stream" : true
+    }]
+  },
+  "fp_mo_8": {
+    "sounds": [{
+      "name" : "fp:fp_mo_8",
+      "stream" : true
+    }]
+  },
+  "fp_mo_9": {
+    "sounds": [{
+      "name" : "fp:fp_mo_9",
+      "stream" : true
+    }]
+  },
+  "fp_mo_10": {
+    "sounds": [{
+      "name" : "fp:fp_mo_10",
+      "stream" : true
+    }]
+  },
+  "fp_mo_11": {
+    "sounds": [{
+      "name" : "fp:fp_mo_11",
+      "stream" : true
+    }]
+  },
+  "fp_mo_12": {
+    "sounds": [{
+      "name" : "fp:fp_mo_12",
+      "stream" : true
+    }]
+  },
+  "fp_mo_13": {
+    "sounds": [{
+      "name" : "fp:fp_mo_13",
+      "stream" : true
+    }]
+  },
+  "fp_mo_14": {
+    "sounds": [{
+      "name" : "fp:fp_mo_14",
+      "stream" : true
+    }]
+  },
+  "fp_mo_15": {
+    "sounds": [{
+      "name" : "fp:fp_mo_15",
+      "stream" : true
+    }]
+  },
+  "fp_mo_16": {
+    "sounds": [{
+      "name" : "fp:fp_mo_16",
+      "stream" : true
+    }]
+  },
+  "fp_mo_17": {
+    "sounds": [{
+      "name" : "fp:fp_mo_17",
+      "stream" : true
+    }]
+  },
+  "fp_mo_18": {
+    "sounds": [{
+      "name" : "fp:fp_mo_18",
+      "stream" : true
+    }]
+  },
+  "fp_mo_19": {
+    "sounds": [{
+      "name" : "fp:fp_mo_19",
+      "stream" : true
+    }]
+  },
+  "fp_mo_20": {
+    "sounds": [{
+      "name" : "fp:fp_mo_20",
+      "stream" : true
+    }]
+  },
+  "fp_mo_21": {
+    "sounds": [{
+      "name" : "fp:fp_mo_21",
+      "stream" : true
+    }]
+  },
+  "fp_mo_22": {
+    "sounds": [{
+      "name" : "fp:fp_mo_22",
+      "stream" : true
+    }]
+  },
+  "fp_mo_23": {
+    "sounds": [{
+      "name" : "fp:fp_mo_23",
+      "stream" : true
+    }]
+  },
+  "fp_mo_24": {
+    "sounds": [{
+      "name" : "fp:fp_mo_24",
+      "stream" : true
+    }]
+  },
+  "fp_mo_25": {
+    "sounds": [{
+      "name" : "fp:fp_mo_25",
+      "stream" : true
+    }]
+  },
+  "fp_musik_theneworder": {
+    "sounds": [{
+      "name" : "fp:fp_musik_theneworder",
+      "stream" : true
+    }]
+  },
+  "fp_port_durchsage": {
+    "sounds": [{
+      "name" : "fp:fp_port_durchsage",
+      "stream" : true
+    }]
+  },
+  "intro_1": {
+    "sounds": [{
+      "name" : "fp:intro_1",
+      "stream" : true
+    }]
+  },
+  "intro_2": {
+    "sounds": [{
+      "name" : "fp:intro_2",
+      "stream" : true
+    }]
+  },
+  "intro_3": {
+    "sounds": [{
+      "name" : "fp:intro_3",
+      "stream" : true
+    }]
+  },
+  "intro_4": {
+    "sounds": [{
+      "name" : "fp:intro_4",
+      "stream" : true
+    }]
+  },
+  "intro_5": {
+    "sounds": [{
+      "name" : "fp:intro_5",
+      "stream" : true
+    }]
+  },
+  "intro_6": {
+    "sounds": [{
+      "name" : "fp:intro_6",
+      "stream" : true
+    }]
+  },
+  "intro_end": {
+    "sounds": [{
+      "name" : "fp:intro_end",
+      "stream" : true
+    }]
+  },
+  "atmo_specht": {
+    "sounds": [{
+      "name" : "fp:atmo_specht_r",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_specht_l",
+      "stream" : true
+    }]
+  },
+  "atmo_morning": {
+    "sounds": [{
+      "name" : "fp:atmo_morning_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_morning_2",
+      "stream" : true
+    }]
+  },
+  "atmo_evening": {
+    "sounds": [{
+      "name" : "fp:atmo_evening_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_evening_2",
+      "stream" : true
+    }]
+  },
+  "atmo_wald": {
+    "sounds": [{
+      "name" : "fp:atmo_wald_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wald_2",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wald_3",
+      "stream" : true
+    }]
+  },
+  "atmo_wasser": {
+    "sounds": [{
+      "name" : "fp:atmo_wasser_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wasser_2",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wasser_3",
+      "stream" : true
+    }]
+  },
+  "atmo_night": {
+    "sounds": [{
+      "name" : "fp:atmo_night_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_night_2",
+      "stream" : true
+    }]
+  },
+  "atmo_wind": {
+    "sounds": [{
+      "name" : "fp:atmo_wind_1",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wind_2",
+      "stream" : true
+    },
+    {
+      "name" : "fp:atmo_wind_3",
+      "stream" : true
+    }]
+  },
+  "atmo_geese": {
+    "sounds": [{
+      "name" : "fp:atmo_geese",
+      "stream" : true
+    }]
+  },
+  "geisterhaus_start": {
+    "sounds": [{
+      "name" : "fp:geisterhaus_start",
+      "stream" : true
+    }]
+  },
+  "geysirtour": {
+    "sounds": [{
+      "name" : "fp:geysirtour",
+      "stream" : true
+    }]
+  },
+"geysirtour_end": {
+    "sounds": [{
+      "name" : "fp:geysir_end",
+      "stream" : true
+    }]
+  },
+"wildwestern_tut_1": {
+    "sounds": [{
+      "name" : "fp:wildwestern/tut_1",
+      "stream" : true
+    }]
+  },
+"wildwestern_tut_2": {
+    "sounds": [{
+      "name" : "fp:wildwestern/tut_2",
+      "stream" : true
+    }]
+  },
+"wildwestern_tut_3": {
+    "sounds": [{
+      "name" : "fp:wildwestern/tut_3",
+      "stream" : true
+    }]
+  },
+"wildwestern_glocke": {
+    "sounds": [{
+      "name" : "fp:wildwestern/glocke",
+      "stream" : true
+    }]
+  },
+"wildwestern_win_1": {
+    "sounds": [{
+      "name" : "fp:wildwestern/win_1",
+      "stream" : true
+    }]
+  },
+"wildwestern_win_2": {
+    "sounds": [{
+      "name" : "fp:wildwestern/win_2",
+      "stream" : true
+    }]
+  },
+"wildwestern_gut": {
+    "sounds": [{
+      "name" : "fp:wildwestern/gut_1",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/gut_2",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/gut_3",
+      "stream" : true
+    }]
+  },
+"wildwestern_mittel": {
+    "sounds": [{
+      "name" : "fp:wildwestern/mittel_1",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/mittel_2",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/mittel_3",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/mittel_4",
+      "stream" : true
+    }]
+  },
+"wildwestern_schlecht": {
+    "sounds": [{
+      "name" : "fp:wildwestern/schlecht_1",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/schlecht_2",
+      "stream" : true
+    },{
+      "name" : "fp:wildwestern/schlecht_3",
+      "stream" : true
+    }]
+  },
+"wildwestern_game_over_1": {
+    "sounds": [{
+      "name" : "fp:wildwestern/game_over_1",
+      "stream" : true
+    }]
+  },
+"wildwestern_game_over_2": {
+    "sounds": [{
+      "name" : "fp:wildwestern/game_over_2",
+      "stream" : true
+    }]
+  },
+"clym_diorite": {
+    "sounds": [{
+      "name" : "fp:clym_d1",
+      "stream" : true
+    },{
+      "name" : "fp:clym_d2",
+      "stream" : true
+    },{
+      "name" : "fp:clym_d3",
+      "stream" : true
+    },{
+      "name" : "fp:clym_d4",
+      "stream" : true
+    }]
+  }
+}

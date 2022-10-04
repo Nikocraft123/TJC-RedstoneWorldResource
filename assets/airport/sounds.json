@@ -1,0 +1,68 @@
+{
+  "ap1": {
+    "sounds": [{
+      "name" : "airport:ap1",
+      "stream" : true
+    }]
+  },
+  "ap2": {
+    "sounds": [{
+      "name" : "airport:ap2",
+      "stream" : true
+    }]
+  },
+  "ap3": {
+    "sounds": [{
+      "name" : "airport:ap3",
+      "stream" : true
+    }]
+  },
+  "ap4": {
+    "sounds": [{
+      "name" : "airport:ap4",
+      "stream" : true
+    }]
+  },
+  "ap5": {
+    "sounds": [{
+      "name" : "airport:ap5",
+      "stream" : true
+    }]
+  },
+  "ap6": {
+    "sounds": [{
+      "name" : "airport:ap6",
+      "stream" : true
+    }]
+  },
+  "ap7": {
+    "sounds": [{
+      "name" : "airport:ap7",
+      "stream" : true
+    }]
+  },
+  "ap8": {
+    "sounds": [{
+      "name" : "airport:ap8",
+      "stream" : true
+    }]
+  },
+  "ap9": {
+    "sounds": [{
+      "name" : "airport:ap9",
+      "stream" : true
+    }]
+  },
+  "ap10": {
+    "sounds": [{
+      "name" : "airport:ap10",
+      "stream" : true
+    }]
+  },
+  "ap11": {
+    "sounds": [{
+      "name" : "airport:ap11",
+      "stream" : true
+    }]
+  }
+}

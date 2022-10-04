@@ -1,0 +1,43 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "custom/stamm"},
+    {"predicate": {"custom_model_data":2}, "model": "custom/void"},
+    {"predicate": {"custom_model_data":3}, "model": "custom/haengeachterbahn"},
+    {"predicate": {"custom_model_data":4}, "model": "custom/gondel1"},
+    {"predicate": {"custom_model_data":5}, "model": "custom/gondel2"},
+    {"predicate": {"custom_model_data":6}, "model": "custom/gondel3"},
+    {"predicate": {"custom_model_data":7}, "model": "custom/gondel4"},
+    {"predicate": {"custom_model_data":8}, "model": "custom/gondel5"},
+    {"predicate": {"custom_model_data":9}, "model": "custom/gondel6"},
+    {"predicate": {"custom_model_data":10}, "model": "custom/gondel7"},
+    {"predicate": {"custom_model_data":11}, "model": "custom/gondel8"},
+    {"predicate": {"custom_model_data":12}, "model": "custom/gondel_stange"},
+    {"predicate": {"custom_model_data":13}, "model": "custom/breakdance"},
+    {"predicate": {"custom_model_data":14}, "model": "rs_bahn_upper/bahn1"},
+    {"predicate": {"custom_model_data":15}, "model": "rs_bahn_upper/bahn2"},
+    {"predicate": {"custom_model_data":16}, "model": "rs_bahn_upper/bahn3"},
+    {"predicate": {"custom_model_data":17}, "model": "rs_bahn_upper/bahn1_open"},
+    {"predicate": {"custom_model_data":18}, "model": "rs_bahn_upper/bahn2_open"},
+    {"predicate": {"custom_model_data":19}, "model": "rs_bahn_upper/bahn3_open"},
+    {"predicate": {"custom_model_data":20}, "model": "rs_bahn_downer/bahn1"},
+    {"predicate": {"custom_model_data":21}, "model": "rs_bahn_downer/bahn2"},
+    {"predicate": {"custom_model_data":22}, "model": "rs_bahn_downer/bahn3"},
+    {"predicate": {"custom_model_data":23}, "model": "rs_bahn_downer/bahn1_open"},
+    {"predicate": {"custom_model_data":24}, "model": "rs_bahn_downer/bahn2_open"},
+    {"predicate": {"custom_model_data":25}, "model": "rs_bahn_downer/bahn3_open"},
+    {"predicate": {"custom_model_data":26}, "model": "custom/sbahnzu"},
+    {"predicate": {"custom_model_data":27}, "model": "custom/golf_normal"},
+    {"predicate": {"custom_model_data":28}, "model": "custom/forcefield"},
+    {"predicate": {"custom_model_data":29}, "model": "custom/tie"},
+    {"predicate": {"custom_model_data":30}, "model": "custom/xwing"},
+    {"predicate": {"custom_model_data":31}, "model": "custom/xwing_raw"},
+    {"predicate": {"custom_model_data":32}, "model": "custom/xwing_ld"},
+    {"predicate": {"custom_model_data":33}, "model": "custom/xwing_lu"},
+    {"predicate": {"custom_model_data":34}, "model": "custom/xwing_rd"},
+    {"predicate": {"custom_model_data":35}, "model": "custom/xwing_ru"}
+  ]
+}

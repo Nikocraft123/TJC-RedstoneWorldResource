@@ -1,0 +1,26 @@
+{
+  "werbung1": {
+    "sounds": [{
+      "name" : "radio:werbung1",
+      "stream" : true
+    }]
+  },
+  "programm1": {
+    "sounds": [{
+      "name" : "radio:programm1",
+      "stream" : true
+    }]
+  },
+  "programm2": {
+    "sounds": [{
+      "name" : "radio:programm2",
+      "stream" : true
+    }]
+  },
+  "programm3": {
+    "sounds": [{
+      "name" : "radio:programm3",
+      "stream" : true
+    }]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "treppe": {
+    "sounds": [
+      "custom:treppe"
+    ]
+  },
+ "tvburch": {
+    "sounds": [{
+      "name" : "custom:tvburch",
+      "stream" : true
+    }]
+  }
+}

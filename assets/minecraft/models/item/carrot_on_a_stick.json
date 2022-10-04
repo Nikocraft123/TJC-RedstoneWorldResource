@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "custom/carrot_on_a_stick"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/golf_schlaeger"
+    }
+  ]
+}

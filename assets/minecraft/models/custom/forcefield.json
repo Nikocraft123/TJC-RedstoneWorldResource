@@ -1,0 +1,6 @@
+{
+  "parent": "template/map",
+  "textures": {
+    "layer0": "forcefield/0"
+  }
+}
